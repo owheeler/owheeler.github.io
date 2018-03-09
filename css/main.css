@@ -156,7 +156,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   padding: 0px;
   list-style: none;
 }
-.break{
+.shadow-large{box-shadow:0 3px 6px rgba(0,0,0,0.08),0 3px 6px rgba(0,0,0,0.15)}.break{
   padding-bottom: 1em;
   clear: both;
 }
