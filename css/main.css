@@ -624,6 +624,9 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 .sky > span{
   background-color: #00bfff;
 }
+.sea > span{
+  background-color: #20b2aa;
+}
 .nostripes > span > span, .nostripes > span:after {
   -webkit-animation: none;
   background-image: none;
